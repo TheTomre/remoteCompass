@@ -66,7 +66,7 @@ Tables:
 
 ---
 
-## [Optional future work]
+## [Potentional future features]
 
 - Add API integration with real job boards (for dynamic vacancy loading)
 - Implement mock interview simulation with AI
