@@ -72,3 +72,10 @@ Tables:
 - Implement mock interview simulation with AI
 - Add progress dashboard for user growth tracking
 
+Conceptual flowchart of user journey: <img width="1024" height="1536" alt="Conceptual flowchart of user journey" src="https://github.com/user-attachments/assets/051ada10-835b-4183-a612-773af86e1b22" />
+
+UML: <img width="1536" height="1024" alt="UML" src="https://github.com/user-attachments/assets/9d31fa64-7d18-4fae-b0b9-2666a62d1275" />
+
+Sequence diagram: <img width="1024" height="1536" alt="Sequence diagram" src="https://github.com/user-attachments/assets/3a3f54b8-3a48-4ecd-896b-9e9b226cf352" />
+
+
